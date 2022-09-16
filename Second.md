@@ -1,0 +1,3 @@
+Second note 
+
+Related: [[First]]
